@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CodeSage 生成文件
+.codesage/
+test_*.py
+*test*.py.bak
+*.bak
+*.log
